@@ -1,49 +1,48 @@
-# CHATO - Console Based Chat Application
+# CHATO | Console-based Chat Application 💬
 
-## Overview
-CHATO is a console-based chat application developed as a 2nd semester Object-Oriented Programming (OOP) project at Air University, Islamabad. The project demonstrates core OOP concepts such as classes, objects, encapsulation, inheritance, and polymorphism.
-
-## Academic Information
-University: Air University, Islamabad  
-Program: Software Engineering  
-Semester: 2nd Semester  
-Course: Object-Oriented Programming (OOP)
+A console-based chat application developed in C++ as an Object-Oriented Programming (OOP) project. CHATO demonstrates the practical implementation of fundamental OOP principles through a simple user authentication and messaging system.
 
 ## Features
-- User registration and login system  
-- Authentication system  
-- Basic chat functionality between users  
-- Console-based interface  
-- File handling for data storage (if used)  
-- Modular OOP design  
-
-## Concepts Used
-- Classes and Objects  
-- Encapsulation  
-- Inheritance  
-- Polymorphism  
-- File Handling  
-- Input/Output stream handling  
+- User registration and login
+- Authentication system
+- User-to-user chat functionality
+- Console-based interface
+- Modular OOP architecture
+- File handling for data storage
 
 ## Technologies Used
-- C++  
-- File Handling  
+- C++
+- Object-Oriented Programming (OOP)
+- File Handling
+
+## Author
+**Anas Abbasi**  
+Software Engineering Student  
+Air University, Islamabad
+
+## Project Information
+- **Course:** Object-Oriented Programming (OOP)
+- **Semester:** 2nd Semester
+- **Project Completion Date:** 11 June 2026
 
 ## How to Run
 
-Clone the repository:
-git clone https://github.com/AnasAbbasii/CHATO.git
+Compile the project:
 
-Compile:
+```bash
 g++ main.cpp -o CHATO
+```
 
-Run:
+Run the executable:
+
+```bash
 ./CHATO
+```
 
-## Developer
-Name: Anas Abbasi  
-Field: Software Engineering Student  
-University: Air University, Islamabad  
+## Repository
 
-## License
-This project is for educational purposes only.
+https://github.com/AnasAbbasii/CHATO
+
+---
+
+© 2026 Anas Abbasi. Educational project developed for academic purposes.
