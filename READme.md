@@ -41,7 +41,7 @@ Run the executable:
 
 ## Repository
 
-https://github.com/AnasAbbasii/CHATO
+https://github.com/AnasAbbasii/Chat-Application-Console-based-
 
 ---
 
