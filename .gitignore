@@ -1,0 +1,19 @@
+# Compiled output
+*.exe
+*.out
+*.o
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
